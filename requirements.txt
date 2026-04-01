@@ -1,0 +1,4 @@
+anthropic>=0.40.0
+openai>=1.50.0        # DeepSeek兼容OpenAI SDK
+python-dotenv>=1.0.0
+rich>=13.0.0          # 终端美化输出
